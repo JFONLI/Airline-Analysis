@@ -4,7 +4,7 @@
 
 This detailed analysis investigates customer satisfaction trends within the airline sector, utilizing data from 9,993 passengers across 1,992 flights. The findings provide valuable insights into customer behavior, service quality trends, and the interplay of various factors influencing passenger satisfaction.
 
-![Survey Overview Dashboard](Airline-images-0.jpg)
+![Survey Overview Dashboard](imgs/Airline-images-0.jpg)
 
 ## Key Findings & Trend Analysis
 
@@ -12,7 +12,7 @@ This detailed analysis investigates customer satisfaction trends within the airl
 
 The overall satisfaction score of 7.72 out of 10 indicates a generally positive, though not exceptional, customer experience. Notable observations include:
 
-![Satisfaction Score Analysis](Airline-images-2.jpg)
+![Satisfaction Score Analysis](imgs/Airline-images-2.jpg)
 
 - **Satisfaction Disparity by Class**
    - There is a significant difference between premium and economy classes
@@ -26,7 +26,7 @@ The overall satisfaction score of 7.72 out of 10 indicates a generally positive,
 
 ### 2. Service Performance Trends
 
-![Performance Overview](Airline-images-1.jpg)
+![Performance Overview](imgs/Airline-images-1.jpg)
 
 - **Delay Analysis**
    - The average delay is 9.89 minutes, impacting 14.66% of flights
