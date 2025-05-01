@@ -1,0 +1,13 @@
+# Ignore CSV data files
+*.csv
+
+# Ignore Power BI files
+*.pbix
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore temp files
+~$*
+*~ 
